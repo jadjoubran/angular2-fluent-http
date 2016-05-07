@@ -1,0 +1,36 @@
+{
+  "name": "angular2-fluent-http",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "tsc && karma start",
+    "prepublish": "tsc",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jadjoubran/angular2-fluent-http"
+  },
+  "author": {
+    "name": "Jad Joubran",
+    "email": "joubran.jad@gmail.com"
+  },
+  "keywords": [
+    "angular",
+    "angular2"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jadjoubran/angular2-fluent-http/issues"
+  },
+  "main": "angular2-fluent-http.js",
+  "typings": "./angular2-fluent-http.d.ts",
+  "dependencies": {
+    "angular2": "^2.0.0-beta.17",
+    "rxjs": "^5.0.0-beta.7",
+    "typescript": "^1.6.2"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
