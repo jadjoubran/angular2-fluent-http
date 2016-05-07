@@ -8,6 +8,11 @@ To install this library, run:
 npm install angular2-fluent-http --save
 ```
 
+## WIP
+
+Adds baseUrl support through `setBaseUrl(baseUrl: string)`
+More features to come
+
 ## Feature suggestions
 
 Open a new issue
