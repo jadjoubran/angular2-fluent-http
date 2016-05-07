@@ -1,10 +1,10 @@
 // Import all services
-import {SampleService} from './services/sample.service';
+import {FluentService} from './services/fluent.service';
 
 // Export all services
-export * from './services/sample.service';
+export * from './services/fluent.service';
 
 // Export convenience property
 export const PROVIDERS: any[] = [
-  SampleService
+  FluentService
 ];

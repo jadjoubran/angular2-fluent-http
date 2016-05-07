@@ -1,11 +1,11 @@
-# angular2-fluent-http
+# angular2 fluent http
 
 ## Installation
 
 To install this library, run:
 
 ```bash
-$ npm install angular2-fluent-http --save
+npm install angular2-fluent-http --save
 ```
 
 ## Feature suggestions
@@ -18,7 +18,7 @@ Open a new issue
 To generate all `*.js`, `*.js.map` and `*.d.ts` files:
 
 ```bash
-$ npm run tsc
+npm run tsc
 ```
 
 ## License
