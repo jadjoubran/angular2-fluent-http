@@ -9,7 +9,7 @@
     "declaration": true
   },
   "files": [
-    "node_modules/angular2/typings/browser.d.ts",
+    "typings/browser.d.ts",
     "angular2-fluent-http.ts"
   ],
   "exclude": [
